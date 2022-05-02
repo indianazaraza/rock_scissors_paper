@@ -1,2 +1,3 @@
-# rock_scissors_paper
-rock or scissors or paper game
+# README.md
+
+Rock or scissors or paper game made in python
