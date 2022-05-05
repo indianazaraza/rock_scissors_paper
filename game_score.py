@@ -1,4 +1,4 @@
-from winning_options import is_a_winning_option
+from options import is_a_winning_option
 
 def score(player_option:int, computer_option:int) -> list:
 	points:list = [0,0]
